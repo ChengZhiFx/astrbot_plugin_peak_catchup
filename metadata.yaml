@@ -1,0 +1,6 @@
+name: astrbot_plugin_peak_catchup
+display_name: 峰谷与重启补课
+desc: 峰价恢复或设备重启后，以 SnowLuma 群历史补齐上下文。
+version: 1.0.0
+author: local
+astrbot_version: '>=4.29.4'
